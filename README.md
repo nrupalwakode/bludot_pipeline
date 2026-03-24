@@ -181,3 +181,4 @@ At ~200 tokens per pair, that's ~5,000 pairs/day free.
 For 10–20 cities/month this is more than sufficient.
 
 The pipeline rate-limits itself to 3 req/sec and retries on 429.
+# bludot_pipeline
